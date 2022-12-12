@@ -1,4 +1,2 @@
 
-import math
-
-def transform(char):
+def lecture(emplacement):
