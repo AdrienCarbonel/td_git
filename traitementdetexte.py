@@ -1,6 +1,2 @@
 
-
-
-import math
-
-for i in range(4):
+def transform(char):
