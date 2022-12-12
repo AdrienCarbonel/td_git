@@ -1,2 +1,2 @@
 
-def transform(char):
+def transform(char):ggg
