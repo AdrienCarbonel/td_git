@@ -1,2 +1,4 @@
 
-def transform(char):ggg
+import math
+
+def transform(char):
