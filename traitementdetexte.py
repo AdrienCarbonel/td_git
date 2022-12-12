@@ -13,7 +13,7 @@ print(Lecture("D:\Projet\test.txt"))
 
 def transform(char):
     for elmnt in char :
-        if elmnt 
+        if elmnt in char:
         
 
 def Lecture(emplacement):
